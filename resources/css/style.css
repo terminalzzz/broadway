@@ -1,0 +1,52 @@
+body {
+  font-family: helvetica;
+  text-align: center;
+}
+
+.menu {
+  background-image: url(/Users/zzz/Documents/codecademy/Broadway/resources/images/the-flatiron-building.png);
+  color: white;
+  font-size: 18px;
+}
+
+.btn {
+  font-size: 18px;
+  color: white;
+}
+
+.menu h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.design {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+    background-image: url(/Users/zzz/Documents/codecademy/Broadway/resources/images/the-flatiron-building.png);
+}
+
+.process h2{
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.process h3{
+  font-weight: bold;
+  font-size: 23px;
+}
+
+.process p{
+  font-size: 14px;
+}
+
+.rest p{
+  font-size: 14px;
+}
+
+.footer {
+    text-align: left;
+    background-color: dimgray;
+    color: white;
+    font-size: 11px
+}
